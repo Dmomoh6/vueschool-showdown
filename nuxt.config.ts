@@ -15,6 +15,12 @@ export default defineNuxtConfig({
     apiVersion: "2024-04-01",
   },
   css: ["../assets/css/style.css"],
+  site: {
+    url: "https://vueschool-frontend-showdown.netlify.app",
+    description:
+      "Training solutions designed for companies, agencies and organisations with developers using or who are considering using the Vue.js framework",
+    defaultLocale: "en",
+  },
   app: {
     head: {
       meta: [
