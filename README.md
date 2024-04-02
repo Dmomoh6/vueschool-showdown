@@ -1,75 +1,39 @@
-# Nuxt 3 Minimal Starter
+# VueSchool Frontend Showdown Test
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Live Demo at <https://vueschool-frontend-showdown.netlify.app>.
 
-## Setup
+## Administrator's guide
 
-Make sure to install the dependencies:
+The video below explains how to make changes to the CMS.
+
+
+
+https://github.com/Dmomoh6/vueschool-showdown/assets/12711891/dfa3d444-ed97-4484-8a1f-6b494a319709
+
+
+
+## Local development
+
+Install the dependencies:
 
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
-
-## Development Server
 
 Start the development server on `http://localhost:3000`:
 
 ```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
-
-## Production
 
 Build the application for production:
 
 ```bash
-# npm
 npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
 ```
 
 Locally preview production build:
 
 ```bash
-# npm
 npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
