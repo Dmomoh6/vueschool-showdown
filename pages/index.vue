@@ -659,7 +659,7 @@
       </div>
     </div>
 
-    <div class="max-w-screen-2xl mt-10 mx-auto px-12 py-4">
+    <div class="max-w-screen-2xl mx-auto mt-10 px-12 py-4">
       <div class="grid lg:mx-20 grid-cols-1 lg:grid-cols-2 gap-12">
         <div
           class="bg-vs_card relative py-10 px-8 items-center flex flex-col shadow-md rounded-3xl text-center"
